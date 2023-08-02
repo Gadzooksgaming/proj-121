@@ -1,0 +1,46 @@
+body{
+    background-color: grey;
+}
+
+#title{
+    color: antiquewhite;
+    font-family: 'Bungee Spice', cursive;
+   text-align: center;
+    
+}
+
+#caption{
+    color: azure;
+    font-family: 'Edu SA Beginner', cursive;
+    text-align: center;
+}
+
+.point{
+    border-radius: 10%;
+    background-color: blanchedalmond;
+    border-color: blanchedalmond;
+    padding: 1px;
+    text-align: center;
+   
+}
+
+.img{
+    width: 250px;
+    border-radius: 10%;
+}
+
+.point_title{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 50px;
+    color: darkcyan;
+}
+
+p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+}
+
+#end{
+    font-family: 'Yatra One', cursive;
+    text-align: center;
+}
